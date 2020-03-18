@@ -1,4 +1,5 @@
 Esse é meu primeiro .txt versionado e compartilhado usado git e github :)
-Editei para fazer o git pull
 
 Agora editei pra enviar para o repositório remoto
+
+Editei outra coisa pra ver se eu consigo fazer sozinho
