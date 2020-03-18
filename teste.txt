@@ -1,1 +1,2 @@
 Esse é meu primeiro .txt versionado e compartilhado usado git e github :)
+Editei para fazer o git pull
